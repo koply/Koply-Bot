@@ -26,7 +26,9 @@ module.exports = class EmojifyCommand extends Command {
 	}
 
 	run(msg, { text }) {
-		msg.delete();
+		if (client.hasPermission("MANAGE_MESSAGES")) {
+			msg.delete();
+		}
 		console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] ${msg.author.tag} (${msg.author.id}) ›› EmojifyCommand. - ${msg.guild.name}\n`);
 		return msg.say(letterTrans(text, dictionary, ' '));
 	}
