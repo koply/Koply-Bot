@@ -1,0 +1,11 @@
+{
+    "token": "token here",
+  
+    "owner": ["your discord id here"],
+  
+    "prefix": "bot command prefix",
+
+    "aktif": " setActivity "
+    
+  }
+  

@@ -1,0 +1,22 @@
+{
+  "name": "koply-v2",
+  "version": "2.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MusaBrt \"Koply\"",
+  "license": "ISC",
+  "dependencies": {
+    "custom-translate": "^2.2.4",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "github:Serhann/discord.js-commando",
+    "figlet": "^1.2.0",
+    "mathjs": "^5.0.1",
+    "moment": "^2.22.2",
+    "path": "^0.12.7",
+    "sleep": "^5.1.1",
+    "sqlite": "^2.9.2"
+  }
+}
