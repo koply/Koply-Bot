@@ -7,6 +7,8 @@ Koply botu kullanabilmek için aşağıda belirtilmiş API'ları kurmanız gerek
 
 Dikkat: **Node.js gerekmektedir.**
 
+Bot ayarları `data/config.json` içerisinden yapılmaktadır.
+
 `discord.js`
 `discordjs-commando`
 `path`
