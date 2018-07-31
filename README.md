@@ -5,6 +5,8 @@ Mini Discord bot.
 Koply botu kullanabilmek için aşağıda belirtilmiş API'ları kurmanız gerekmektedir.
 Örnek: `npm i discord.js`
 
+Dikkat: **Node.js gerekmektedir.**
+
 `discord.js`
 `discordjs-commando`
 `path`
