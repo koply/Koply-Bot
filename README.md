@@ -6,7 +6,7 @@ Koply botu kullanabilmek için aşağıda belirtilmiş API'ları kurmanız gerek
 Örnek: `npm i discord.js`
 
 `discord.js`
-`discord.js-commando`
+`discordjs-commando`
 `path`
 `sqlite`
 `mathjs`
@@ -14,3 +14,5 @@ Koply botu kullanabilmek için aşağıda belirtilmiş API'ları kurmanız gerek
 `custom-translate`
 `figlet`
 `common-tags`
+
+Not: Bot içerisinde kullanılan discordjs-commando -> [url="https://github.com/MusaBrt/discord.js-commando"]MusaBrt/discord.js-commando[/url]
