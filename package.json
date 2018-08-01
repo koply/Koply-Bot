@@ -11,7 +11,7 @@
   "dependencies": {
     "custom-translate": "^2.2.4",
     "discord.js": "^11.3.2",
-    "discord.js-commando": "github:Serhann/discord.js-commando",
+    "discord.js-commando": "github:MusaBrt/discord.js-commando",
     "figlet": "^1.2.0",
     "mathjs": "^5.0.1",
     "moment": "^2.22.2",
