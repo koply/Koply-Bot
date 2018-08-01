@@ -24,9 +24,6 @@ module.exports = class AsciiTextCommand extends commando.Command {
   }
 
   async run(message, args) {
-    if (client.hasPermission("MANAGE_MESSAGES")) {
-	message.delete();
-    }
     ascii(args.ascii, {
         horizontalLayout: 'fitted',
         verticalLayout: 'fitted'

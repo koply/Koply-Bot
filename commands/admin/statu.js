@@ -31,7 +31,7 @@ module.exports = class StatuCommand extends Command {
             .addField("Botun bulunduğu sunucu sayısı:", `**${client.guilds.size}**`)
             .addField("Botun bulunduğu sunucuların listesi:", `${sunucular}`)
 
-        console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] ${msg.author.tag} (${msg.author.id}) Statu. - ${msg.guild.name}\n`);
+        console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] ${msg.author.tag} (${msg.author.id}) UUID F4WA-. - ${msg.guild.name}\n`);
 
         msg.channel.send(embed);
     }
