@@ -8,6 +8,7 @@ Bot ayarları `data/config.json` içerisinden yapılmaktadır.
 
 Koply botu kullanabilmek için aşağıda belirtilmiş API'ları kurmanız gerekmektedir.
 Örnek: `npm i discord.js`
+
 Gereken API'lar: 
 `discord.js`
 `discordjs-commando`
