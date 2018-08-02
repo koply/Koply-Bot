@@ -18,5 +18,6 @@ Bot ayarları `data/config.json` içerisinden yapılmaktadır.
 `custom-translate`
 `figlet`
 `common-tags`
+`sleep`
 
 Not: Bot içerisinde kullanılan discordjs-commando -> [MusaBrt/discord.js-commando](https://github.com/MusaBrt/discord.js-commando)
