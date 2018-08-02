@@ -27,10 +27,8 @@ module.exports = class uuidCommand extends Command {
 				text+='-';
 			}
 		}
-		console.log(text)
 		let num = 0;
 		text = text.toLowerCase().split('');
-		console.log(text)
 		for (let i = 0; i < text.length; i++) {
 			num = getRandomInt(2);
 			if (num === 1) {
